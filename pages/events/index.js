@@ -6,7 +6,7 @@ function EventsPage() {
 
   return (
     <div>
-      <EventList items={featuredEvents} />
+      <h2>idk what this does anymore</h2>
     </div>
   );
 }
